@@ -1,0 +1,4 @@
+[2026-07-28 08:16:44] [INFO] ==== setup-project.js =====
+[2026-07-28 08:16:44] [DEBUG] [PPT Setup] stdin 数据: {"session_id":"97e4f84d-032d-47da-997e-afc1bf3d6492","transcript_path":"/root/.codebuddy/projects/workspace/97e4f84d-032d-47da-997e-afc1bf3d6492.jsonl","cwd":"/workspace","hook_event_name":"PreToolUse","tool_name":"Skill","tool_input":{"skill":"playwright-cli","args":"screenshot --url=https://purplemoon276191.github.io/purple-moon-workspace/ --output=/tmp/deployed-page.png --width=1280 --height=800"},"call_id":"Skill_16","tool_use_id":"Skill_16","agent_type":"cli","permission_mode":"bypassPermissions","client":"CLI","version":"2.125.0","generation_id":"2d192a2b184c40d081e8ee1ada5d1d20","model":"auto"}
+[2026-07-28 08:16:44] [INFO] [PPT Setup] skill: playwright-cli
+[2026-07-28 08:16:44] [INFO] [PPT Setup] 跳过: skill 是 "playwright-cli"，不是 "ppt-implement"
